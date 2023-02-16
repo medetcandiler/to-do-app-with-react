@@ -3,6 +3,8 @@
 ## About The Project
 I am very excited to share this project with you because It's my first REACT project. I had a chance to use the useState and useEffect hooks that I have learnt so far. As I go along with this project I got the idea of algorithm behind inputs and how to manipulate and use input values with components. Also with useEffect I manage to manipulate localstorage. Whenever you enter new task to input area datas are stored to localStorage and whenever you refresh the pages task that you entered beforehand do not lost.. In short I have learnt a lot of from this project. I hope you like the project as well..
 
+
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/medetcandiler)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/medetdiler/)
