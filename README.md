@@ -9,7 +9,7 @@ I am very excited to share this project with you because It's my first REACT pro
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/medetcandiler)
 
-[My Patika.dev Profile](https://app.patika.dev/meddo)
+[Patika.dev Profile](https://app.patika.dev/meddo)
 ---
 Sample of the project:
 
