@@ -14,7 +14,7 @@ I am very excited to share this project with you because It's my first REACT pro
 ---
 Sample of the project:
 
-![sample-of-my-project](https://github.com/medetcandiler/Hamburger-Nav-Bar/blob/main/sapmle-of-hamburger-nav.gif)
+![sample-of-my-project](https://github.com/medetcandiler/to-do-app-with-react/blob/main/first-react-project.gif)
 
 ## ABOUT ME 
 Hello Everyone. Let me briefly introduce myself to you. First of all I am so glad to see that you are looking at my project. I am 26 years old. I am a mechanical engineer. After my graduation I worked as an engineer in the field somewhere in the region of 5 months. However, after working a few month I felt like it was not for me and I was not happy. After That I decided to research on different careers specifically those that include web development, because I have always been interested in coding, software, computer and its components. After extensive research, I grew more interest towards coding and I felt driven and motivated to become a genuinely brilliant frontend web developer. I would like to add that my education background that engineering has taught me how to work in an higly orginised and systematic way which allows me to learn in an effective way. What I mean is my enginnering background has been making great contrubutions to my learning process. I hope I did not bore you with my brief introduction.
